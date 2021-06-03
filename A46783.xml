@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>the lavv given forth out of Sion, and the commandments of the Lord of life, (who is Lord from Heaven) made known unto men. By Walter Jenkins</title>
+            <author>Jenkins, Walter, 1625 or 6-1661.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46783</idno><idno type="EEBO-CITATION">99831756</idno>
+  <idno type="VID">36223</idno>
+  <idno type="EEBO-PROQUEST">2240940421</idno>
+  
+            <idno type="STC">Wing J616</idno>
+            <idno type="STC">ESTC R220352</idno>
+            <idno type="PROQUEST">99831756</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831756e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>the lavv given forth out of Sion, and the commandments of the Lord of life, (who is Lord from Heaven) made known unto men. By Walter Jenkins</title>
+                  <author>Jenkins, Walter, 1625 or 6-1661.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36223:1"/>
+            <p>THE LAVV Given forth out of SION, AND THE COMMANDMENTS OF THE LORD of LIFE, (Who is LORD from HEAVEN) Made known unto MEN.</p>
+            <p>By WALTER JENKINS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Wilson,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:36223:2"/>
+            <pb n="3" facs="tcp:36223:2"/>
+            <head>
+               <hi>The Law given forth out of</hi> Sion, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>GOD who at sundry times, and in divers manners,
+<note place="margin">
+                     <hi>Heb.</hi> 1.1, 2.</note> spake in times past unto the Fathers, by the Prophets, hath in these last dayes spoken unto us, by</hi> (or <hi>in) his Son</hi> Christ Jesus <hi>the welbeloved Son of God,
+<note place="margin">
+                     <hi>Col.</hi> 2.9.</note> in whom dwelt the fulness of the Godhead bodily;</hi> who is the <hi>author</hi> and <hi>finisher</hi> of the <hi>Salvation</hi> of <hi>every one</hi> that believes in him; who is come <hi>a Light into the world,</hi> and <hi>lighteth every man that cometh into the world;</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 1.9.</note> who in the <hi>fulness of time</hi> appeared in the <hi>form of a servant,</hi> and in the dayes of his flesh, went about <hi>doing good,
+<note place="margin">
+                     <hi>Acts</hi> 10.38.</note> teaching and ad<g ref="char:EOLhyphen"/>monishing,</hi> in the authority and power of God, <hi>all that came unto him;</hi> as it is recorded in the Scriptures of Truth, <hi>Matth.</hi> 5.1. <hi>And seeing the multitude, he went up into a Mountain, and when he was set, his Disciples came unto him,</hi> (mark that) <hi>and he opened his mouth and taught them, saying, Blessed are the poor in spirit, for theirs is the Kingdom of Heaven, &amp;c.</hi> So after he had declared a while in the tender bowels of everlasting Love, unto the Seed of God in them, and they being <hi>Disciples indeed,</hi> willing to re<g ref="char:EOLhyphen"/>ceive the Law at his mouth, who was the <hi>everlasting High Priest;</hi>
+               <note place="margin">
+                  <hi>Mal.</hi> 2.7. <hi>Heb.</hi> 8.17</note> he promised certain things of great consequence, (in vers. 19.) saying, <hi>Whosoever therefore shall break one of these least Command<g ref="char:EOLhyphen"/>ments,</hi> (mark the word, <hi>these least Commandments,</hi> which he was then ready to deliver, for yet he had given none unto them) <hi>and shall teach men so, he shall be called the least in the Kingdom of Hea<g ref="char:EOLhyphen"/>ven,</hi> that is (as the Preachers of <hi>England</hi> say) <hi>not at all.</hi>
+            </p>
+            <p>Oh ye Priests, Teachers, Parsons, Vicars and Curats, what will you do? what can you answer for your selves (to that in all your Consciences I speak) when the Lord Jesus Christ pleads with you?
+<note place="margin">
+                  <hi>Acts</hi> 17.31.</note>
+               <hi>whom God hath appointed to judge the whole world in his day:</hi> for you not only break, but <hi>teach to break</hi> these least Com<g ref="char:EOLhyphen"/>mandments. So here Christ speaks nothing at all to the <hi>Phari<g ref="char:EOLhyphen"/>sees,</hi>
+               <note place="margin">
+                  <hi>Mal.</hi> 2.7.</note> but to <hi>Disciples</hi> who were willing and desirous <hi>to receive the Law at his mouth;</hi> giving them a special caution, before he de<g ref="char:EOLhyphen"/>livers his Laws, Statutes and Commandments unto them,
+<note place="margin">
+                  <hi>Mat.</hi> 5.20.</note>
+               <hi>that unless their righteousness did exceed the righteousness of the Scribes
+<pb n="4" facs="tcp:36223:3"/>and Pharisees,</hi> (mark that, you blind-guides, that know not to whom he spake) <hi>they could in no case enter into the Kingdom of Hea<g ref="char:EOLhyphen"/>ven;</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 8.12. <hi>Jo.</hi> 12.46</note> and how could it exceed, unless they believed in him who was come a Light into the word, and kept his Commandments?</p>
+            <p>Having so premised, and laid down the danger in breaking, and teaching to break these least Commandments,
+<note place="margin">
+                  <hi>Mat.</hi> 28.18.</note> he saith not [reproofs to the <hi>Pharisees</hi>] but these <hi>least Commandments,</hi> having <hi>all Power in Heaven and in Earth committed unto him of the Father;</hi> In the Authority of God, and in the Majesty of his pure Name, he begins to give forth his Laws,
+<note place="margin">1 <hi>John</hi> 5.3.</note> Statutes and Commandments, which were <hi>not grievous</hi> to them, some in the <hi>Negative</hi> (so cal<g ref="char:EOLhyphen"/>led by Scholars) as forbidding to do; others in the <hi>Affirmative,</hi> as commanding to do: neither are they grievous to us also, who are come to learn of him,
+<note place="margin">
+                  <hi>Mat.</hi> 11.29.</note> who is <hi>the Light of Life,</hi> who <hi>fulfills the Law,</hi> and is the <hi>end of it,</hi> and is the end of <hi>all strife and conten<g ref="char:EOLhyphen"/>tion,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 1.9.</note> subduing the <hi>lust</hi> in every one that believes in him; who is <hi>come a Light into the world, and lighteth every man that cometh in<g ref="char:EOLhyphen"/>to the world,
+<note place="margin">
+                     <hi>Joh.</hi> 3.16</note> that whosoever should believe in him, should not perish, but have everlasting life:</hi> Blessed for ever is he who is <hi>come unto him,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 3.14</note> he is come unto that which was before the Fall, before Transgression, in the beginning, as at the first: where there is no need of <hi>killing</hi> and <hi>striving,</hi>
+               <note place="margin">
+                  <hi>Ephes.</hi> 6.12. Tombs.</note> and <hi>contending with flesh and blood;</hi> neither is there any need of <hi>Swearing</hi> (as you Priests teach peo<g ref="char:EOLhyphen"/>ple to break Christ's Commandments) nor <hi>Cursing</hi> to end <hi>strife</hi> and <hi>controversie;</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 4.7</note> for <hi>the Peace of God, which passeth all understand<g ref="char:EOLhyphen"/>ing,</hi>
+               <note place="margin">
+                  <hi>Jam.</hi> 4.12.</note> is known and witnessed in the obedience to the Command<g ref="char:EOLhyphen"/>ments of Christ Jesus the <hi>Law-giver</hi> of his People, &amp;c.</p>
+            <p>
+               <hi>Ye have heard that it was said by them of old time,
+<milestone type="tcpmilestone" unit="unspecified" n="I"/>
+                  <note place="margin">
+                     <hi>Matth.</hi> 5.21. 1 <hi>Cor.</hi> 15.47.</note> Thou shall not kill; and whosoever shall kill, shall be in danger of the Judgment: But I say to you,</hi> saith the Lord Jesus Christ (who is <hi>Lord from Heaven) whosoever is angry with his brother without cause, is in danger of Judgment,</hi> that is, in as much danger as he that kills. Oh peo<g ref="char:EOLhyphen"/>ple, what think you, how will it stand between you, and the Lord? you that are full of wrath and anger, knocking and beat<g ref="char:EOLhyphen"/>ing all you meet with, thinking none sit to live upon the Earth, but your selves;
+<note place="margin">
+                  <hi>Gal.</hi> 2.17.</note> Think not to say in your hearts, <hi>Christ died for us, and we shall do well enough; we strongly believe in him, and we hope the best; and if it were not for hope, the heart would break:</hi> and so, poor souls, you remain ignorant of that, which the Lord
+<pb n="5" facs="tcp:36223:3"/>will not despise, <hi>a broken heart;</hi> and your hope is such,
+<note place="margin">
+                  <hi>Psa.</hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.17.</note> that keeps you from the brokenness of heart: Surely you cannot enter into Gods Kingdom, while you thus break these least Command<g ref="char:EOLhyphen"/>ments; for <hi>they that love him, keep his Commandments,
+<note place="margin">
+                     <hi>Jo.</hi> 14.23. 1 <hi>Joh.</hi> 5.3. <hi>Joh.</hi> 12.50. <hi>Jo.</hi> 5.37. <hi>Psa</hi> 12.4. <hi>Matt.</hi> 12.35.</note> and they are not grievous unto them.</hi> So that now what Christ did hear and receive of the Father, that he delivered to the Disciples, the dispised ones: but you who have <hi>not heard his voice,</hi> nor <hi>seen his shape at any time,</hi> you may do as you list, and as you think, with<g ref="char:EOLhyphen"/>out controul; for <hi>your tongues are your own,</hi> and <hi>you utter hard speeches, and perverse words;</hi> for which <hi>an account you must certain<g ref="char:EOLhyphen"/>ly give unto the Lord.</hi>
+            </p>
+            <p>
+               <hi>Ye have heard that it hath been said by them of old time,</hi> (that is,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/>
+               <note place="margin">
+                  <hi>Matth.</hi> 5.27. 1 <hi>Cor.</hi> 15.47. <hi>Joh.</hi> 1.2.</note> in the dayes of <hi>Moses) Thou shalt not commit Adultery: But I say unto you,</hi> (saith the Lord Jesus Christ, who is <hi>Lord from Heaven, by whom the world was made) He that looketh upon a woman, to lust after her, hath committed Adultery with her already in his heart.</hi> Here it is near you, O ye Priests, that break and teach to break these <hi>least Commandments:</hi> And all you poor ignorant souls, from the highest to the lowest, that know not when you do amiss, nor when you break the Commandments of the Lord Jesus Christ: It is Adultery to look on a woman, to lust after her in the heart; and the <hi>Whoremongers and Adulterers God will judge.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 13.4</note> There were some in the Apostles dayes, as they are now,
+<note place="margin">2 <hi>Pet.</hi> 2.14.</note>
+               <hi>whose eyes were full of Adultery, that could not cease from sin;</hi> and they were the <hi>spots in their feasts.</hi> Whoever reads this, look to your selves, for the day of God's righteous Judgment is nigh to be revealed.</p>
+            <p>
+               <hi>It hath been said, Whosoever shall put away his Wife,
+<milestone type="tcpmilestone" unit="unspecified" n="III"/>
+                  <note place="margin">
+                     <hi>Matth.</hi> 5.31. <hi>Joh.</hi> 1.1.</note> let him give her a Writing of Divorcement: But I say unto you,</hi> (saith the Word, that was in the beginning, by whom the World was made) <hi>Whosoever shall put away his Wife, saving for the cause of Fornication, causeth her to commit Adultery, &amp;c. Moses</hi> in the old time <hi>suffered it so to be,</hi> (Mat. 19.8.) <hi>because of the hard<g ref="char:EOLhyphen"/>ness of their hearts; but from the beginning it was not so:</hi> In the beginning all was in the order, before the hardness of heart, be<g ref="char:EOLhyphen"/>fore the putting away was; and until men be brought to the <hi>Be<g ref="char:EOLhyphen"/>ginning</hi> (Christ Jesus) the <hi>Light of the World,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 8.12.</note> him by whom the World was made, they remain in the disorder, where the hard<g ref="char:EOLhyphen"/>ness of heart is, and the putting away, the cause of Adultery. Oh all People, mind that of God in all your consciences,
+<note place="margin">
+                  <hi>Rom.</hi> 1.19.</note> the
+<pb n="6" facs="tcp:36223:4"/>Appearance of Christ, which God hath freely given, to lead out of the Fall, into the Beginning, where there is no breach of these least Commandments, where there is no cause for women to sue for <hi>Allimony,</hi> or, a maintenance, being put away; which I have seen amongst most Religions (so called) and a sore evil, and surely the Lord hath seen it. Again,</p>
+            <p>
+               <hi>Ye have heard that it hath been said by them of old time,
+<milestone type="tcpmilestone" unit="unspecified" n="IV"/>
+                  <note place="margin">
+                     <hi>Matth.</hi> 5.33.</note> Thou shalt not forswear thy self, but shalt perform unto the Lord thine Oaths:</hi> here, in the old time, Forswearing was forbidden, although now commonly practised by men of many degrees; but when they swore,
+<note place="margin">
+                  <hi>Jer.</hi> 4.2.</note> it was to be done <hi>in Truth, in Judgment,</hi> and <hi>Righteousness,</hi> and to be performed as it was told by them of old time: But now in the new time,
+<note place="margin">
+                  <hi>Col.</hi> 2.9. <hi>Phil.</hi> 2.7. <hi>Joh.</hi> 3.32</note> when he appeared, in whom dwelt the fulness of the Godhead bodily; (for so it did not in the old time, until Christ took upon him the form of a servant, and declared what he had heard of the Father) <hi>I say unto you,</hi> (mark the word <hi>[you]</hi> that is, to his Disciples, who did hear and learn, and were taught of him) <hi>Swear not at all, neither by Heaven, for it is God's Throne; nor by the Earth, &amp;c.</hi> for so the custom of the <hi>Jews</hi> was to swear, by Heaven, and Earth, and other creatures: Yet, although they had degenerated from the true manner of Swearing, in the old time, yet they were bound to perform unto the Lord their Oaths, and what they had sworn;
+<note place="margin">
+                  <hi>Jer.</hi> 4.2.</note> that so their <hi>yea might be yea, in truth.</hi> So it was one thing here, to command the Disciples <hi>not to swear at all,</hi> but that <hi>their yea, should be yea, and their nay, nay;</hi> they should speak truth, and perform what they spake, whether it were yea or nay, in all things, without swearing; as the other were in the old time, by swearing, which he, who was before the old time, puts an end to, and gives forth his Laws, Statutes and Commandments,
+<note place="margin">1 <hi>Joh</hi> 5.3</note> which were not grievous to them, neither to us; but to you, O Priests, Lawyers, and People, they are grie<g ref="char:EOLhyphen"/>vous: And as one man saith, (without great caution, rather pernitious than useful:
+<note place="margin">
+                  <hi>Tombs.</hi> he Baptist.</note>
+               <hi>Oh thou Antichrist, that exaltest thy self above the Commandments of Christ and wouldst limit these least Com<g ref="char:EOLhyphen"/>mandments of the Holy One, and so break them, and teach to break them:
+<note place="margin">
+                     <hi>Matth.</hi> 5.19.</note> Surely thou shalt be called the least in the Kingdom of Hea<g ref="char:EOLhyphen"/>ven.</hi>) And another thing, when Christ Jesus the Lord, reproves the Pharisees in <hi>Matth.</hi> 23.16. where he reproveth them sharp<g ref="char:EOLhyphen"/>ly, and calls them <hi>blind guides,</hi> and <hi>wo was to them,</hi> and they
+<pb n="7" facs="tcp:36223:4"/>were <hi>fools,</hi> because when they swore, they made a distinction of Oaths; as if one swore by the <hi>Gold</hi> of the Temple, he was a deb<g ref="char:EOLhyphen"/>tor, and bound to perform, but if by the <hi>Temple,</hi> it was nothing: So here Christ upbraids and reproves sharply their Forswearing, letting them to see their ignorance; that if they were debtors, and bound to perform, when they swore by the <hi>Gold,</hi> and by the <hi>Sacrifice</hi> on the Altar, how much more were they bound to per<g ref="char:EOLhyphen"/>form when they swore by the <hi>Temple,</hi> which was greater, and sanctified the Gold, and where God dwelt? and so by the <hi>Al<g ref="char:EOLhyphen"/>tar,</hi> because it was greater, and sanctified that which was on it. And so <hi>James</hi> the Servant of God, (<hi>Jam.</hi> 5.12.) excludes all Swearing whatsoever, saying, <hi>Above all things, my Brethren, Swear Not, neither by Heaven, nor Earth, nor by any other Oath;</hi> and sheweth the reason why, <hi>left ye fall into Condemnation:</hi> for he knew certainly, that <hi>Christ, the Light,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 3.19.</note> would condemn them for the breach of these his least Commandments. And so peo<g ref="char:EOLhyphen"/>ple, your Priests and Teachers tell you, you cannot live with<g ref="char:EOLhyphen"/>out Swearing, and breaking the Commandments of Christ the Judge of the World: But in the fear of the Lord of Heaven and Earth, I have better Counsel for you, and if you were wise, you would try; (that is) Turn your minds to that of God in your Consciences, which checks you, and reproves you when you do amiss; that is <hi>the Light of Christ,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 5.13.</note> that is the appearance of Christ in the Love of the Father unto every one of you; this will lead you into the Fear of God, and teach you, if you give up to believe in it, and to be guided by it, <hi>to forsake ungodliness,
+<note place="margin">
+                     <hi>Tit.</hi> 2.12.</note> and to live soberly in this world;</hi> it will teach you to <hi>do unto all men, as you would have all men do unto you, in all things;</hi> if you owe any thing to any man, it will teach you to pay; and then there will be no strife, nor need of swearing to end strife; and then you could live one by another in quietness, but now you cannot; for an Oppressor will take away all you have, and give you nothing for it; and if you go to ask for your own, he hath a trick in Law to defraud you, and he will get men to swear, and break the Commandments of Jesus Christ, and so you dare ne<g ref="char:EOLhyphen"/>ver ask again for your own, your right, your inheritance.</p>
+            <p>Yea, but say some, <hi>In communication you must not swear,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> but let your yea, be yea, and your nay, be nay.</hi>
+            </p>
+            <p>Whatever one speaks unto another,
+<label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> that is communicated
+<pb n="8" facs="tcp:36223:5"/>from the one to the other; for when you compel men to swear, you speak unto them, you tell them what you would have them do, you communicate unto them your mind, or the thing you require of them.</p>
+            <p>
+               <hi>But,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label>
+               <note place="margin">
+                  <hi>Jam</hi> 4.12 <hi>Joh.</hi> 8.58</note> say some, <hi>God did approve of Swearing.</hi>
+            </p>
+            <p>Yea, in the old time; but now in the new time Christ is come, the Law-giver, and saith, <hi>Swear not at all;</hi> He is come, who is before <hi>Abraham</hi> was, although <hi>Abraham</hi> swore in the old time; And he is the Root of <hi>David,</hi> although <hi>David</hi> swore in the old time; He reigns over the house of <hi>Jacob,</hi> although <hi>Jacob</hi> swore in the old time; And although the <hi>Angel</hi> swore, yet he who is greater than the Angel, whom let all the Angels of God worship,
+<note place="margin">
+                  <hi>Heb.</hi> 1.6.</note> saith, <hi>Swear not at all.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>Yea, but</hi> (say some) <hi>hath not the Lord commanded to swear by his Name?</hi>
+            </p>
+            <p>Yea,
+<label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> in the old time. But who commanded to swear with three fingers on the Bible, kneeling or standing, kissing it, as the manner is now, and by the contents of that Book, either in the old or new time?</p>
+            <p>But some say,
+<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> the Apostle swore in the new time, when he said, <hi>I take God to record upon my soul;</hi> and, <hi>God is my witness, I lie not.</hi>
+            </p>
+            <p>Alas,
+<label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> poor ignorant people! we have offered as much as this, and yet it would not be taken, because not an Oath; so here your own Lawyers say it is not an Oath, because they refuse us. But O people, be no longer deceived; for while ye break these least Commandments of Christ the Judge of the world, you strive one with another, and you swear, and yet the strife is not ended; because you rebel against the Light of Christ,
+<note place="margin">
+                  <hi>Job</hi> 24.13.</note> which Christ hath lighted you withal, in your own hearts, in your own conscien<g ref="char:EOLhyphen"/>ces, which would subdue the lust from whence strife ariseth; and so while you are angry, and fight, and strive one with ano<g ref="char:EOLhyphen"/>ther, there is work for the proud Lawyers; then you must pay this see, and the other fee; and then they make a prey upon you, and get unto themselves great riches, by your striving, while you walk out of the fear of God: and no marvel they are against us, and would judge us, to lose our Estates and Lives also; for they are men that are greedy after mens Estates, and to build their nests on high: for if men did walk in the Fear of God,
+<pb n="9" facs="tcp:36223:5"/>and according to that of God in their Consciences, then many of them must work as well as you or we, and their trade of get<g ref="char:EOLhyphen"/>ting money by the sins of the people, would fail.</p>
+            <p>
+               <hi>Ye have heard that it hath been said, An eye for an eye,
+<milestone type="tcpmilestone" unit="unspecified" n="V"/>
+                  <note place="margin">
+                     <hi>Matth.</hi> 5.38. <hi>Rev.</hi> 3.14.</note> and a tooth for a tooth; But I say unto you</hi> (saith the true and faithful Witness) <hi>that ye resist not evil; but whosoever shall smite thee on the one cheek, turn the other also, &amp;c.</hi>
+            </p>
+            <p>Oh all you Magistrates, who not only strike them that strike you, but if any come before you in the Fear of God, because he will not honour you with <hi>Cap and Knee,</hi> and <hi>respect your Per<g ref="char:EOLhyphen"/>sons,</hi> because of your great store of <hi>Ribbons,</hi> your <hi>Silver Buttons,</hi> and <hi>Tassels</hi> in your <hi>Hats,</hi> then you strike them: you who swear, and are sworn to keep the Peace, and preserve it,
+<note place="margin">
+                  <hi>Mat.</hi> 5.9.</note> you are the Peace-breakers, and so not of them who are blessed: How will ye answer the breach of these Commandments of the Lord Je<g ref="char:EOLhyphen"/>sus Christ? And O ye Priests and Preachers,
+<note place="margin">
+                  <hi>Judg.</hi> 5.23.</note> who have cryed with a loud voice, <hi>Curse ye Meroz, curse ye bitterly the inhabit ants thereof, because they came not to the help of the Lord against the mighty,</hi> and cry up the fighters and manslayers, and curse them that would not; Thus have you beguiled many in this Nation, some of whom I heard afterwards <hi>curse you:</hi> And what think you, will not Christ Jesus, the Lord of Life, plead with you? will he not account with you, ye breakers, and teachers to break his Commandments? or, think you he hath delayed his coming, and the while you may do what you please; eat and drink with the drunken, fight, and procure to fight, and encourage to break the Commandments of the Son of God? So here you are they that resist the evil; nay, you do the evil unto such who resist you not; and the people, your hearers, follow you their examples; <hi>like Priest, like People;</hi> and instead of having your Coats taken away from you by Law, some of you have robbed a man and his whole heritage; you have sued and gone to Law with them that saw your wickedness, and come to know you by your fruits (as Christ said) to be the ministers of Antichrist,
+<note place="margin">
+                  <hi>Mat.</hi> 7.16.</note> and served your bellies, and not the Lord, and therefore could not put into your mouths; and then the Wolf hath appeared,
+<note place="margin">
+                  <hi>Micah</hi> 3.5.</note> rend<g ref="char:EOLhyphen"/>ing and tearing all that came near, taking the goods, taking the bodies, and casting them into Prisons and nasty holes, until you have had the life also: he is very blind who doth but reade
+<pb n="10" facs="tcp:36223:6"/>the Scriptures,
+<note place="margin">
+                  <hi>Isa</hi> 56.11.1 <hi>Joh.</hi> 2.18.</note> and cannot see you to walk in the steps of the false Prophets that went before, and the Antichrists that should come, of whom <hi>John</hi> said, there were many in his dayes, above fifteen hundred years ago: And all you that plead for the An<g ref="char:EOLhyphen"/>tiquity of your Church, Ministers and Ministry, the <hi>Antichrist;</hi> are of the same Antiquity with you, who apostatized from the Doctrine and Commandments of our Lord Jesus Christ, as here is plainly made apparant to any reasonable men; but alas, we are fallen in an age of unreasonable men,
+<note place="margin">
+                  <hi>Phil.</hi> 3.19</note>
+               <hi>whose god is their belly,</hi> and all their care and study is to fill and feed that; <hi>lovers of pleasures more than lovers of God;
+<note place="margin">2 <hi>Tim.</hi> 3.4</note> sporting themselves in the day-time, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Ye have heard that it hath been said,
+<milestone type="tcpmilestone" unit="unspecified" n="VI"/>
+                  <note place="margin">
+                     <hi>Matth.</hi> 5.43. <hi>Rev.</hi> 2.12.</note> Thou shalt love thy neigh<g ref="char:EOLhyphen"/>bour, and hate thine enemy: But I say unto you,</hi> (saith he who hath the sharp sword with two edges) <hi>Love your enemies, bless them that curse you, do good to them that hate you, and pray for them that despitefully use you, and persecute you.</hi> O Nation of <hi>England,</hi> O ye People of the whole Land, who are called <hi>Christians</hi> by name, but surely falsly,
+<note place="margin">1 <hi>Joh.</hi> 4.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.</note> for if you were so indeed, you would keep his Commandments: your Priests, Parsons, Vicars and Curats, never knew these <hi>least Commandments,</hi> and they are evil exam<g ref="char:EOLhyphen"/>ples unto you,
+<note place="margin">
+                  <hi>Ezek,</hi> 33.6.</note> and your blood will the Lord require at their hands, for they never taught you to keep <hi>these least Command<g ref="char:EOLhyphen"/>ments;</hi> but they themselves followed their own hearts lusts, and you poor ignorant souls have followed after: Think not I am become your enemy,
+<note place="margin">
+                  <hi>G<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 4.16.</note> because I tell you the truth; I dare not flatter you, for that you do your selves, but tell you the naked truth in the simplicity of my heart; who am a sufferer accord<g ref="char:EOLhyphen"/>ing to the will of God, because I cannot break, nor teach to break these <hi>least Commandments.</hi> Oh what cryes and complaints are heard amongst you! You say every one is ready to hang the other, and you say there is no love amongst you: sure how can it be, while you remain ignorant of him who leads into Love, while you are ignorant of these least Commandments? You hate us,
+<note place="margin">1 <hi>Pet.</hi> 4.4.</note>
+               <hi>not because of evil, but because we fear the God of Power, and cannot ran into the same excess of riot with you:</hi> You hate one another, and why? because you love not the Lord Je<g ref="char:EOLhyphen"/>sus Christ; you love not Jesus Christ (although you talk much of him, and boast great things of him) because ye keep not his
+<pb n="11" facs="tcp:36223:6"/>Commandments. O people, your Leaders cause you to erre,
+<note place="margin">
+                  <hi>Joh.</hi> 14.15. <hi>Mic.</hi> 3.5. <hi>Matt.</hi> 2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.29. <hi>Rom.</hi> 13.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Sam.</hi> 1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.22.</note> and you err, not knowing the Scriptures, nor the Power of God, which leads every soul that is subject to the higher Power, into the obedience that is <hi>better than sacrifice,</hi> and leads out of, the pollutions that are in the world, and redeems up unto God, out of the Fall, where the breakers, and teachers, and compellers to break these least Commandments (before recited) remain. O people, there are no Commandments that are greater than these; And how shall you ever know them and keep them, un<g ref="char:EOLhyphen"/>til you come to the obedience of the Light,
+<note place="margin">
+                  <hi>Joh.</hi> 1.9.</note> wherewith Christ Jesus hath enlightened you; which Light will lead you from the breakers, and teachers to break these least Commandments; for they <hi>with feigned words and fair speeches, deceive the hearts of the simple;</hi> the Lord our God, whom we serve and fear, will plead with them, and with all flesh, with fire, and with the sword. O People, mind that, which God hath freely given unto every one of you, to be a Guide and a Leader to his People, a Teacher that cannot be removed into a corner, but when ever you do amiss it will check you, and reprove you; if you love,
+<note place="margin">
+                  <hi>Joh.</hi> 3.19.</note> it will lead you out of it; if you hate it, because it reproves you, it will condemn you, if you believe in it, it will let you see the evil of your wayes, to the end you might loath your selves, and seek after the Lord that made you,<hi>if by any means you might feel af<g ref="char:EOLhyphen"/>ter him, although he be not far from you;</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 17.</note> and receive mercy at his hands, who is willing to receive every one that cometh unto him. Oh people of all sorts and sexes, and degrees, come, Why will you die, why will you die? Oh come and delay not, lest it be too late for you, and then your cry will be great and fore, and you shall seek, but shall not be able to find.</p>
+            <closer>
+               <signed>I hate none of you.<lb/>
+                  <hi>Wa. Jenkins.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publisher_to_the_reader">
+            <pb n="12" facs="tcp:36223:7"/>
+            <head>POST-SCRIPT.</head>
+            <p>THe Author of this being known by me and many more, to be a man of an upright conversation, and did bear his Testimony for the Lord against Unrigh<g ref="char:EOLhyphen"/>teousness in his time, labouring to bring people there<g ref="char:EOLhyphen"/>from, unto the Righteous Principle of God in them, that they might know the <hi>Just One,</hi> and do his Will: Although he be separated from outward fellowship with men, yet his labour and service in love to the Truth, which is everlasting, is had in remembrance with other of our dear Brethren, whose Lives have not been too dear to them for the Gospels sake. And now in love to the Truth, that others might receive the benefit of his Labours, I was willing to take some care in the pub<g ref="char:EOLhyphen"/>lishing thereof,</p>
+            <closer>
+               <signed>Who am a lover of immortal souls,<lb/> and a follower of Peace and Ho<g ref="char:EOLhyphen"/>liness<lb/> with all men.<lb/>
+                  <hi>Edw. Bourne.</hi>
+               </signed>
+               <dateline>
+                  <date>The 25th of the first Month, 1663.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:36223:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
